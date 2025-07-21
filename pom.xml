@@ -7,7 +7,7 @@
     <artifactId>micro-project</artifactId>
     <packaging>war</packaging>
     <version>v2</version>
-    <name>chandana microproject webapp</name>
+    <name>visualpathit vprofile webapp</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -253,6 +253,7 @@
 
 
     <build>
+        <finalName>micro-project-v2</finalName>
         <plugins>
             <!-- Jetty Plugin -->
             <plugin>
